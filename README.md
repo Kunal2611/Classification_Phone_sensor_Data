@@ -30,7 +30,7 @@ copy **gyro** data from **Data/valphone** to a new folder called **Gyro_Val_data
  Run 1., 2. and 3. to get a cleaned csv files named Cleaned_Train_data and Cleaned_Test_data and Cleaned_Val_data in the working folder which will be used in 4.Classify_Phonedata to train and test and validate the selected classifier and to find the accuracy.
 
 ### Libraries used are:
-Sklearn
-xgboost
-pandas
+Sklearn, 
+xgboost, 
+pandas, 
 numpy
