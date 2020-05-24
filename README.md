@@ -8,13 +8,13 @@ To download dataset click [**here**](https://prithviai-my.sharepoint.com/:f:/g/p
 
 Copy each to the working folder and download the dataset from above link and copy folder **accel** data from **Data/raw/train/phone**
  to a new folder called **Accl_data**
- similarly copy **gyro** folder to a new folder called **Gyro_data**
+similarly copy **gyro** folder to a new folder called **Gyro_data**
  
- copy **accel** data from **Data/raw/test/phone** to a new folder called **Accl_Test_data**
- copy **gyro** data from **Data/raw/test/phone** to a new folder called **Gyro_Test_data**
+copy **accel** data from **Data/raw/test/phone** to a new folder called **Accl_Test_data**
+copy **gyro** data from **Data/raw/test/phone** to a new folder called **Gyro_Test_data**
  
- copy **accel** data from **Data/val/phone** to a new folder called **Accl_Val_data**
- copy **gyro** data from **Data/valphone** to a new folder called **Gyro_Val_data**
+copy **accel** data from **Data/val/phone** to a new folder called **Accl_Val_data**
+copy **gyro** data from **Data/valphone** to a new folder called **Gyro_Val_data**
 
 
 ### select either the .ipybn files or the scripts (.ipybn files are prefered)
