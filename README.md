@@ -1,13 +1,12 @@
 # Classification_Phone_sensor_Data
 Classification of a dataset collected by accelerometer and gyroscope in the mobile phone while performing a certain activity.
 
-## Use scrits for python 3 
-## OR
-## Use .ipybn files for Jupyter Notebook
+#### Use scrits for python 3  OR  Use .ipybn files for Jupyter Notebook
 
 
 To download dataset click [**here**](https://prithviai-my.sharepoint.com/:f:/g/personal/aakash_pandey_prithvi_ai/EhnIDiH1ExlKoje3P-9SpRYB3X5w_d0eFgWL3qWJrcEGnQ?e=fmAepS)  
- Copy each to the working folder and download the dataset from above link and copy folder **accel** data from **Data/raw/train/phone**
+
+Copy each to the working folder and download the dataset from above link and copy folder **accel** data from **Data/raw/train/phone**
  to a new folder called **Accl_data**
  similarly copy **gyro** folder to a new folder called **Gyro_data**
  
