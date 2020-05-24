@@ -21,9 +21,9 @@ data_acc_all = pd.DataFrame()
 
 
 for i in range(34,51):    
-    data = pd.read_csv("/home/jovyan/Accl_Test_data/data_"+"16"+str(i)+"_accel_phone.txt", header=None)
+    data = pd.read_csv("/home/jovyan/Accl_Val_data/data_"+"16"+str(i)+"_accel_phone.txt", header=None)
     list_acc.append(data)
-    data = pd.read_csv("/home/jovyan/Gyro_Test_data/data_"+"16"+str(i)+"_gyro_phone.txt", header=None)
+    data = pd.read_csv("/home/jovyan/Gyro_Val_data/data_"+"16"+str(i)+"_gyro_phone.txt", header=None)
     list_gyr.append(data)
 
 
