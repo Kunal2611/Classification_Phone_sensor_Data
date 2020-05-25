@@ -15,7 +15,7 @@ I have done classification for just data recorded by sensors on phone but same l
  work to classify the activity being done by taking all the 2 senator's data from each phone and the watch.
 
 
-Download the dataset from above link and copy folder **"accel"** from path **Data/raw/train/phone** in the link above
+Download the dataset from above link and copy folder **"accel"** from path **Data/raw/train/phone** in the link above,
  to a new folder called **"Accl_data"**
 
 similarly copy **"gyro"** folder to a new folder called **"Gyro_data"**
