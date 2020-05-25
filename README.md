@@ -1,4 +1,4 @@
-# Classification_Phone_sensor_Data
+# Classification_of_sensor_Data
 Classification of a dataset collected by accelerometer and gyroscope while performing a certain activity.
 
 ###### Use scrits for python 3  OR  Use .ipybn files for Jupyter Notebook
