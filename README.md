@@ -17,11 +17,11 @@ I have done classification for just data recorded by sensors on phone but same l
 
 Download the dataset from above link and copy folder **"accel"** from **Data/raw/train/phone**
  to a new folder called **"Accl_data"**
-similarly copy **gyro** folder to a new folder called **"Gyro_data"**
+similarly copy **"gyro"** folder to a new folder called **"Gyro_data"**
  
 
-copy **accel** from **Data/raw/test/phone** to a new folder called **"Accl_Test_data"**
-copy **gyro** from **Data/raw/test/phone** to a new folder called **"Gyro_Test_data"**
+copy **"accel"** from **Data/raw/test/phone** to a new folder called **"Accl_Test_data"**
+copy **"gyro"** from **Data/raw/test/phone** to a new folder called **"Gyro_Test_data"**
  
 
 copy **"accel"** from **Data/val/phone** to a new folder called **"Accl_Val_data"**
