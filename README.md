@@ -1,24 +1,31 @@
 # Classification_Phone_sensor_Data
 Classification of a dataset collected by accelerometer and gyroscope in the mobile phone while performing a certain activity.
 
-#### Use scrits for python 3  OR  Use .ipybn files for Jupyter Notebook
+##### Use scrits for python 3  OR  Use .ipybn files for Jupyter Notebook
 
 
 ### To download dataset click [**here**](https://prithviai-my.sharepoint.com/:f:/g/personal/aakash_pandey_prithvi_ai/EhnIDiH1ExlKoje3P-9SpRYB3X5w_d0eFgWL3qWJrcEGnQ?e=fmAepS)  
 
 
 
-Copy each to the working folder and download the dataset from above link and copy folder **accel** data from **Data/raw/train/phone**
- to a new folder called **Accl_data**
-similarly copy **gyro** folder to a new folder called **Gyro_data**
+##Introduction
+
+I have done classification for just data recorded by sensors on phone but same logic can be applied and watch data
+ can also be appended with respective phone data and can be further classified using same model. This model will then 
+ work to classify the activity being done by taking all the 2 senator's data from each phone and the watch.
+
+
+Download the dataset from above link and copy folder **"accel"** from **Data/raw/train/phone**
+ to a new folder called **"Accl_data"**
+similarly copy **gyro** folder to a new folder called **"Gyro_data"**
  
 
-copy **accel** data from **Data/raw/test/phone** to a new folder called **Accl_Test_data**
-copy **gyro** data from **Data/raw/test/phone** to a new folder called **Gyro_Test_data**
+copy **accel** from **Data/raw/test/phone** to a new folder called **"Accl_Test_data"**
+copy **gyro** from **Data/raw/test/phone** to a new folder called **"Gyro_Test_data"**
  
 
-copy **accel** data from **Data/val/phone** to a new folder called **Accl_Val_data**
-copy **gyro** data from **Data/valphone** to a new folder called **Gyro_Val_data**
+copy **"accel"** from **Data/val/phone** to a new folder called **"Accl_Val_data"**
+copy **"gyro"** from **Data/valphone** to a new folder called **"Gyro_Val_data"**
 
 
 ### select either the .ipybn files or the scripts (.ipybn files are prefered)
