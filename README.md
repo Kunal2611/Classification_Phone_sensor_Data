@@ -15,17 +15,18 @@ I have done classification for just data recorded by sensors on phone but same l
  work to classify the activity being done by taking all the 2 senator's data from each phone and the watch.
 
 
-Download the dataset from above link and copy folder **"accel"** from **Data/raw/train/phone**
+Download the dataset from above link and copy folder **"accel"** from path **Data/raw/train/phone** in the link above
  to a new folder called **"Accl_data"**
+
 similarly copy **"gyro"** folder to a new folder called **"Gyro_data"**
  
 
-copy **"accel"** from **Data/raw/test/phone** to a new folder called **"Accl_Test_data"**
-copy **"gyro"** from **Data/raw/test/phone** to a new folder called **"Gyro_Test_data"**
+copy **"accel"** from path **Data/raw/test/phone** to a new folder called **"Accl_Test_data"**
+copy **"gyro"** from path **Data/raw/test/phone** to a new folder called **"Gyro_Test_data"**
  
 
-copy **"accel"** from **Data/val/phone** to a new folder called **"Accl_Val_data"**
-copy **"gyro"** from **Data/valphone** to a new folder called **"Gyro_Val_data"**
+copy **"accel"** from path **Data/val/phone** to a new folder called **"Accl_Val_data"**
+copy **"gyro"** from path **Data/valphone** to a new folder called **"Gyro_Val_data"**
 
 
 ### select either the .ipybn files or the scripts (.ipybn files are prefered)
